@@ -24,10 +24,10 @@
     
 ### `👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
 <p align="center">
-<a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="40px"
+<a href="https://github.com/Andric7"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="40px"
 </p>
     
-<a href="wa.me/573183650526" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="wa.me/59173315260" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 ### Quieres probar la funciones del bot, antes de instalar, probar el bot aquí
 
@@ -67,7 +67,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg update && pkg upgrade && pkg install bash && pkg install libwebp && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget && pkg install imagemagick -y && pkg install yarn
 ```
 ```bash
-git clone https://github.com/elrebelde21/NovaBot-MD && cd NovaBot-MD && yarn && npm install
+git clone https://github.com/Andric7/NovaBot-MD && cd NovaBot-MD && yarn && npm install
 ```
 ```bash
 npm start
@@ -91,7 +91,7 @@ Detener el bot apretado CTRL y aplastas Z en tu teclado, darle enter y escribe:
 - ### 🟢 𝙰𝙲𝚃𝚄𝙰𝙻𝙸𝚉𝙰𝚁 𝙽𝙾𝚅𝙰𝙱𝙾𝚃-𝙼𝙳
 > Note Comandos para actualizar NovaBot-MD de forma automática
 ```bash
-grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/elrebelde21/NovaBot-MD/master/update.sh | bash
+grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/Andric7/NovaBot-MD/master/update.sh | bash
 ```
 Para que no pierda su progreso en NovaBot-MD, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 
@@ -133,7 +133,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ## `𝙴𝙳𝙸𝚃𝙾𝚁 𝚈 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃`
 
-<a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="250" height="250" alt="elrebelde21"/></a>
+<a href="https://github.com/Andric7"><img src="https://github.com/Andric7.png" width="250" height="250" alt="elrebelde21"/></a>
 
 ## `👑 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁𝙴𝚂 👑`
 
